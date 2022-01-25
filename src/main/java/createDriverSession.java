@@ -34,6 +34,7 @@ public class createDriverSession {
 
 
         System.out.println("session id: " + driver.getSessionId());
+        System.out.println("session id: " + driver.getSessionId() + "My name is Slim Shaddy");
     }
 
 
